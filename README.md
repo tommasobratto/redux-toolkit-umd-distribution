@@ -1,4 +1,4 @@
-# redux-toolkit-umd-distribution
+# Redux Toolkit UMD Distribution
 
 Basic setup to generate a UMD distribution for [Redux Toolkit](https://github.com/reduxjs/redux-toolkit), including core dependencies (Reselect, Immer, Redux-Thunk) and excluding React dependencies.
 
