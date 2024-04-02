@@ -15,6 +15,9 @@ const config = {
                     "rename-umd-globals",
                     { "unknown": "Redux" }
                 ]
+            ],
+            "targets": [
+                "chrome 51"
             ]
         }),
         nodeResolve(),
